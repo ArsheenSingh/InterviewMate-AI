@@ -1,7 +1,5 @@
 # InterviewMate AI – Interview Trainer Agent
 
-[InterviewMate AI Demo] (./Implemenatation_SS_2.png)
-
 **InterviewMate AI** is a Retrieval-Augmented Generation (RAG)-powered assistant that automates interview prep. Upload your resume or pick a job title & experience level, and InterviewMate AI will:
 
 - Extract your profile details (name, role, seniority, skills & tech stack)  
